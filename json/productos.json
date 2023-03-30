@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "mochila",
+    "precio": 5000,
+    "img":
+      "./img/mochila_xl.png",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "bolso",
+    "precio": 6000,
+    "img":
+      "./img/bolso.png",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Cartera",
+    "precio": 4000,
+    "img":
+      "./img/cartera_noche.png",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "monedero",
+    "precio": 1500,
+    "img":
+      "./img/monedero.png",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "cartuchera",
+    "precio": 1000,
+    "img":
+      "./img/cartuchera.png",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "riñonera",
+    "precio": 1000,
+    "img":
+      "./img/rinonera.png",
+    "cantidad": 1
+  }
+]
